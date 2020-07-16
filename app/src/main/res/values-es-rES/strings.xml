@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Contador del Grifo</string>
+    <string name="tap_me_button_text">GOLPÉAME</string>
+    <string name="tap_counter">0</string>
+    <string name="background_image_view_text">fondo de madera</string>
+</resources>

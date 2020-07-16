@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tap Counter</string>
+    <string name="tap_me_button_text">TAP ME!</string>
+    <string name="background_image_view_text">wood background</string>
+    <string name="tap_counter">0</string>
+</resources>
